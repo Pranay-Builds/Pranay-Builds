@@ -1,1 +1,3 @@
-Hello , I am Pranay , I know HTML, CSS and javascript, some react , bootstrap luau and I am currently doing CS50X
+Hello.
+I am Pranay from India
+I know html, css, js, react, bootstrap, python, lua and currently learning from CS50X (week 7) and learning back end development.
