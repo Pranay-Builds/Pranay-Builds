@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for buildin
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning **Django, NodeJS and Git**
+- 🌱 I’m currently learning **Django, NodeJS and MongoDB**
 - I'm from India
 
 ## 🛠️ Languages and Tools
