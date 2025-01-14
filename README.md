@@ -19,6 +19,9 @@ Here are some of the technologies and tools I work with:
 
 - [Twitter](https://twitter.com/Pran4y)
 - [Email](mailto:contactpranay10@gmail.com)
+
+# What I'm working on
+I am a harvard's CS50X learner and currently working on the final project
   
 
 Thanks for visiting my profile!
