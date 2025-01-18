@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for buildin
 Here are some of the technologies and tools I work with:
 
 - **Languages:** HTML, CSS, JS, React, Tailwind, Basics of C (which i learned from cs50x), SQL, Lua, Python
-- **Frameworks:**  Django
+- **Frameworks:**  Django, Flask
 - **Tools:** Visual Studio Code
 
 ## 📫 Connect with Me
