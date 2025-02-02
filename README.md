@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for buildin
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning **Django, NodeJS**
+- 🌱 I’m currently learning **Django, MERN, Roblox Game Development**
 - I'm from India
 
 ## 🛠️ Languages and Tools
@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for buildin
 Here are some of the technologies and tools I work with:
 
 - **Languages:** HTML, CSS, JS, React, Tailwind, Basics of C (which i learned from cs50x), SQL, Lua, Python
-- **Frameworks:**  Django, Flask
+- **Frameworks:**  Django
 - **Tools:** Visual Studio Code
 
 ## 📫 Connect with Me
