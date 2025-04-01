@@ -20,4 +20,6 @@ Here are some of the technologies and tools I work with:
 - [Twitter](https://twitter.com/Pran4y)
 - [Email](mailto:contactpranay10@gmail.com)
 
-I have completed harvard cs50x!! Now doing cs50p!
+I have completed harvard cs50x!!
+
+Low or no commits = exams, outside of home or other personal reasons
