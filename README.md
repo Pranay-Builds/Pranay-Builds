@@ -23,3 +23,5 @@ Here are some of the technologies and tools I work with:
 I have completed harvard cs50x!!
 
 Low or no commits = exams, outside of home or other personal reasons
+
+I'm currently enrolled in CS50AI, Just trying it to see how it is and to learn more stuff!
